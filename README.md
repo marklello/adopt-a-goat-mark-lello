@@ -1,6 +1,3 @@
-<div style="text-align: center"><img style="width: 50%" src="images/logicgate.png" /></div>
-
-
 Adopt a Goat :goat:
 ===================
 
