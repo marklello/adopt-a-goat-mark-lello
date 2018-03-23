@@ -13,14 +13,15 @@ begin to build some basic tests against the application.
 
 - Structure a testing suite using Selenium (you may use the programming language
   of your choice).
-- Add a few tests that validate the form's happy-path.
+- Add a few tests that validate the form's happy-path (i.e. submitting it without
+  errors).
 - Add TODOs and comments that define the specifications for tests that would
 highlight edge cases and incorrect inputs.
 
 
 #### Guidelines
 
-- Open `<path-to-project>/index.html` in a browser to view the goat form.
+- Open `<path-to-project>/index.html` in a browser to view the adoption form.
 - `*` Denotes a required field.
 - Tests should automate filling out the form.
 - Submitting the form should take users to a confirmation page.
@@ -30,19 +31,19 @@ highlight edge cases and incorrect inputs.
 #### Evaluation
 
 The goal of this exercise is to demonstrate your ability to identify points of
-failure in a web application and design the appropriate tests to validate
-appropriate functionality. We are looking for problem solving and meticulous
- thinking above proficiency in any particular programming language. As such,
- the verbal TODOs that outline future tests are just as important as the actual
- tests that you create.
+failure in a web application and design tests to validate appropriate
+functionality. We are looking for problem solving and meticulous thinking
+above proficiency in any particular programming language. As such, the verbal
+TODOs that outline future tests are just as important as the actual tests that
+you create.
 
 We will also be evaluating the organizational structure of your test suite.
 Clean code and attention to reusability goes a long way.
 
-Don't hesitate to leave comments along the way that explain your thought
-process. The more we understand your thought process the easier it is to follow
-your submission. Also, if you find yourself stuck or the instructions seem
-unclear please reach out to `devs@logicgate.com` with questions.
+Don't hesitate to leave comments that explain your thought process. The more we
+understand your thought process the easier it is to follow your submission.
+Also, if you find yourself stuck or the instructions seem unclear please reach
+out to `devs@logicgate.com` with questions.
 
 
 #### References
