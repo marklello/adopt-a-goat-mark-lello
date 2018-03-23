@@ -1,7 +1,7 @@
 Adopt a Goat :goat:
 ===================
 
-This is repository contains a bootstrap application featuring a small goat
+This repository contains a bootstrap application featuring a small goat
 adoption form. Your task is to structure a framework for a testing suite and
 begin to build some basic tests against the application.
 
@@ -10,10 +10,12 @@ begin to build some basic tests against the application.
 
 - Structure a testing suite using Selenium (you may use the programming language
   of your choice).
-- Add a few tests that validate the form's happy-path (i.e. submitting it without
-  errors).
+- Add one test that validates the form's happy-path (i.e. submitting it
+  successfully without errors).
+- Add one test that validates appropriate user feedback when an error occurs
+  that prevents happy-path submission.
 - Add TODOs and comments that define the specifications for tests that would
-highlight edge cases and incorrect inputs.
+  highlight edge cases and incorrect inputs.
 
 
 #### Guidelines
