@@ -16,6 +16,7 @@ begin to build some basic tests against the application.
   that prevents happy-path submission.
 - Add TODOs and comments that define the specifications for tests that would
   highlight edge cases and incorrect inputs.
+- Update or include a new README with instructions on how to run the test suite
 
 
 #### Guidelines
