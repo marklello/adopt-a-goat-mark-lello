@@ -39,7 +39,7 @@ begin to build some basic tests against the application.
       Your line will look something like browser.get('file:///Users/marklello/WebstormProjects/adopt-a-goat-marklello/index.html');
     
     - Now let's do the final step and run the automation:
-        - The command is "protractor conf.js"
+        - The command is "protractor conf.js" 
 
 #### Requirements
 
