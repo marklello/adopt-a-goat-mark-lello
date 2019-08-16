@@ -18,7 +18,7 @@ describe('Adopt A Goat', function() {
     // tests and workflows together. Additionally, when tests can be ran independently we can debug issues much faster.
     beforeEach(async () => {
         // add your local file location below to run this suite
-        browser.get('file:///Users/mark.lello/Documents/adopt-a-goat/index.html');
+        browser.get('file:///Users/marklello/WebstormProjects/adopt-a-goat-marklello/index.html');
     });
 
     // NOTE: Independent test which uses page objects functions which are reusable and makes reading through the it
